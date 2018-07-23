@@ -30,7 +30,7 @@
 	boldheaders = true
 	tabwidth = 4
 	linebreak = false
-	spellcheck = false
+	spellcheck = true
 	fontdiff = Noto Sans Mono CJK TC,11,-1,5,50,0,0,0,0,0
 	showpath = false
 
