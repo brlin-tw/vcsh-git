@@ -38,3 +38,5 @@
 [credential]
 	helper = cache --timeout 10800
 
+[pull]
+	rebase = false
