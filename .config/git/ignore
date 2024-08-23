@@ -3,3 +3,7 @@
 
 ## Output redirected by nohup(1)
 nohup.out
+
+## Backup file of the Kate text editor
+*.kate-swp
+
