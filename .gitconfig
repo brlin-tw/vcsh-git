@@ -33,8 +33,15 @@
 	spellcheck = true
 	fontdiff = Noto Sans Mono CJK TC,11,-1,5,50,0,0,0,0,0
 	showpath = false
-	icontheme = dark
-	hidpi = 1.5
+	icontheme = default
+	hidpi = 0
+	theme = default
+	autodetectproxy = true
+	refreshonfocus = true
+	autoloadcommittemplate = false
+	resizebrowsercolumns = true
+	blockcursor = true
+	statusshowtotals = true
 
 ; Credential Cache Helper
 [credential]
