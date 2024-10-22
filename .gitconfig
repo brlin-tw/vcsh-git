@@ -53,3 +53,7 @@
 
 [init]
 	defaultBranch = main
+
+; Configuration for the git-ubuntu utility
+[gitubuntu]
+	lpuser = brlin
