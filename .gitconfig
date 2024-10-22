@@ -16,6 +16,7 @@
 ; Sub-command aliases
 [alias]
 	denny-git-log = log --color --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+	contributors = shortlog -e --summary --numbered
 
 [color]
 	ui = true
