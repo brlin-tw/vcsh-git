@@ -57,3 +57,7 @@
 ; Configuration for the git-ubuntu utility
 [gitubuntu]
 	lpuser = brlin
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
