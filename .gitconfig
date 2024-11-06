@@ -66,5 +66,5 @@
 
 ; Allow lp: abbreviation for repositories hosted on Launchpad
 ; https://help.launchpad.net/Code/Git#Configuring_Git
-[url "git+ssh://USER@git.launchpad.net/"]
+[url "git+ssh://brlin@git.launchpad.net/"]
         insteadof = lp:
