@@ -57,6 +57,8 @@
 ; Configuration for the git-ubuntu utility
 [gitubuntu]
 	lpuser = brlin
+
+; Enable PGP-sign for commit and tag operations by default
 [commit]
 	gpgSign = true
 [tag]
