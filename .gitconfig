@@ -22,7 +22,7 @@
 	ui = true
 
 [gui]
-	editor = kate --startanon --new
+	editor = kate --startanon --block
 	historybrowser = gitk
 
 ; Configuration of Git Cola
